@@ -1,4 +1,4 @@
-🇧🇷 PT-BR
+PT-BR
 
 Oi, eu sou o Jefferson! 😆
 
@@ -12,7 +12,7 @@ Vamos juntos usar a tecnologia para fazer o mundo melhor! 🙌
 
  
 
-🇺🇸 EN/US
+EN-US
 
 Hi, I'm Jefferson! 😆
 
