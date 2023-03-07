@@ -22,9 +22,29 @@ Ah, e tenho muito interesse computação social, segurança da informação, an�
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfscrd&layout=compact&theme=codeSTACKr&locale=pt-br"/>
   </a>
-  </div>
+  <br>
+  <br>
 
----------------
+  <h3>Tenho algum conhecimento ⭐<h3>
+  <img alt="C/C++" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img alt="CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="MySql" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img alt="PHP" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <br><br>
+  <h3>Metas de aprendizagem 📚</h3>
+  <img alt="Node.JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <br>
+  <br>
+</div>
+
+  ---------------
 
 <div align="center">
   <h3>Mais Sobre Mim 👦</h3>
@@ -32,7 +52,7 @@ Ah, e tenho muito interesse computação social, segurança da informação, an�
   <a href="https://www.linkedin.com/in/jfscrd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=orange" target="_blank"></a>
   <a href="mailto:jeffersondias12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=orange" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5534998643085" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-blue?style=flat-square&logo=whatsapp&logoColor=orange" target="_blank"></a>
-  <img src="https://img.shields.io/badge/jfscrd%239110-blue?style=flat-square&logo=discord&logoColor=orange">
+  <a href=""><img src="https://img.shields.io/badge/jfscrd%239110-blue?style=flat-square&logo=discord&logoColor=orange"></a>
 <div>
 
 ---------------
