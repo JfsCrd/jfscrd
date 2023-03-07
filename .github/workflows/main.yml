@@ -14,8 +14,8 @@ jobs:
   
         with:
           github_user_name: JfsCrd
-          svg_out_path: dist/github-contribution-grid-snake.svg
           color_snake: yellow
+          svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
