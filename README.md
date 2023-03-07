@@ -53,7 +53,7 @@ Ah, e tenho muito interesse computação social, segurança da informação, an�
   <a href="https://www.linkedin.com/in/jfscrd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=orange" target="_blank"></a>
   <a href="mailto:jeffersondias12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5534998643085" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=orange" target="_blank"></a>
-  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/jfscrd%239110-blue?style=for-the-badge&logo=discord&logoColor=orange">
+  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/jfscrd%239110-blue?style=for-the-badge&logo=discord&logoColor=orange"></a>
 <div>
 
 ---------------
