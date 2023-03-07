@@ -1,24 +1,39 @@
-PT-BR
+### Oi, eu sou o Jefferson e curso Sistemas de Informação na UFU! 😆
 
-Oi, eu sou o Jefferson! 😆
 
-Curso Sistemas de Informação na Universidade Federal de Uberlândia (UFU), no campus Monte Carmelo!
+#### Um pouco da minha trajetória acadêmica 🎓
+Desde o início da graduação tenho participado voluntariamente de vários projetos de extensão e ensino, dentre eles: o Jovens Programadores [(site do JP)](http://www.jovensprogramadores.com/), sendo monitor no ensino de programação e robótica para crianças usando Arduíno; também fui monitor na disciplina de Banco de Dados 2, utilizando PostgreSQL como principal SGBD; no TechKids [(site do TechKids)](https://techkids.facom.ufu.br/) auxiliei no ensino de programação para crianças através do Scratch; na Empresa Júnior de Agronomia UFU - Monte Carmelo (ConCampo) atuei como membro colaborador no setor de marketing, criando conteúdo midiático para redes sociais.
 
-Desde o início de minha graduação participo de vários projetos de extensão, dentre eles: o Jovens Programadores [(site do JP)](http://www.jovensprogramadores.com/) sendo monitor das aulas de programação e robótica; monitoria em Banco de Dados (2), usando PostgreSQL; também participei ativamente do Diretório Central dos Estudantes e foi cofundador do Centro Acadêmico de Sistemas de Informação (CASIU). Além da participação na organização de vários eventos da universidade, recentemente fui bolsista no Ações Formativas Integradas - AFIN [(site do AFIN)](http://afinmc.github.io/ (site desenvolvido por mim 🥹) (de 2020 e 2021) e, atualmente sou bolsista no Programa UFU Saudável, onde sou responsável pela geração de relatórios de fluxo de notificações de COVID-19 na comunidade acadêmica. 💼
+Além de participações voluntárias também fui bolsista de extensão por dois anos: no AFIN [(site do AFIN)](http://afinmc.github.io/), onde tive a honra de desenvolver o site do projeto; e, no Programa UFU Saudável, ficando responsável pela geração de relatórios de fluxo de notificações de COVID-19 na comunidade acadêmica, lidando com Excel e PowerBi como principais ferramentas.
 
-Você pode saber mais sobre minhas realizações no meu currículo lattes: [(meu lattes)](http://lattes.cnpq.br/1235452524648922). Ou me contatar pelo LinkedIn [(meu linkedin)](https://www.linkedin.com/in/jfscrd/)! 🗂️
+Também fui membro do DCE, o qual me possibilitou ser conselheiro de graduação no Conselho de Graduação (CONGRAD) da universidade, também sou cofundador do Centro Acadêmico de Sistemas de Informação (CASIU), onde atuei por dois anos como Diretor de Assuntos Acadêmicos. 💼
 
-Vamos juntos usar a tecnologia para fazer o mundo melhor! 🙌
+#### Vamos juntos usar a tecnologia para fazer o mundo melhor! 🙌
 
 Ah, e tenho muito interesse computação social, segurança da informação, análise de dados e gerência de projetos! 💕
 
-EN-US
+---------------
 
-Since the beginning of my graduation I have participated in several extension projects, among them: the Jovens Programadores [(JP's website)](http://www.jovensprogramadores.com/) being a monitor of programming and robotics classes; database monitoring (2), using PostgreSQL; I also actively participated in the Central Directory of Students and was a co-founder of the Academic Center for Information Systems (CASIU). In addition to participating in the organization of various university events, I was recently a fellow at Ações Formativas Integradas - AFIN [(AFIN website)](http://afinmc.github.io/ (website developed by me 🥹) (from 2020 to 2021 ) and, I am currently a fellow at the UFU Saudável Program, where I am responsible for generating reports on the flow of COVID-19 notifications in the academic community. 💼
+<div align="center">
+  <h3>Algo sobre as linguagens que costumo lidar 👨‍💻</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jfscrd&hide=issues,prs&locale=pt-br&show_icons=true&theme=codeSTACKr"/>
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfscrd&layout=compact&theme=codeSTACKr&locale=pt-br"/>
+  </a>
+  </div>
 
-You can learn more about my achievements in my lattes curriculum: [(my lattes)](http://lattes.cnpq.br/1235452524648922). Or contact me on LinkedIn [(my linkedin)](https://www.linkedin.com/in/jfscrd/)! 🗂️
+---------------
 
-Let's use technology together to make the world better! 🙌
+<div align="center">
+  <h3>Mais Sobre Mim 👦</h3>
+  <a href=" http://lattes.cnpq.br/1235452524648922" target="_blank"><img src="https://img.shields.io/badge/Lattes-blue?style=flat-square&logo=appveyor&logoColor=orange" target="_blank" style="padding:500"></a>                                  
+  <a href="https://www.linkedin.com/in/jfscrd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=orange" target="_blank"></a>
+  <a href="mailto:jeffersondias12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=orange" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5534998643085" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-blue?style=flat-square&logo=whatsapp&logoColor=orange" target="_blank"></a>
+  <img src="https://img.shields.io/badge/jfscrd%239110-blue?style=flat-square&logo=discord&logoColor=orange">
+<div>
 
-Oh, and I'm very interested in social computing, information security, data analysis and project management! 💕
-
+---------------
+![Snake animation](https://github.com/JfsCrd/JfsCrd/blob/output/github-contribution-grid-snake.svg)
