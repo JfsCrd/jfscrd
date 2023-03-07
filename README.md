@@ -49,11 +49,11 @@ Ah, e tenho muito interesse computação social, segurança da informação, an�
 
 <div align="center">
   <h3>Mais Sobre Mim 👦</h3>
-  <a href="http://lattes.cnpq.br/1235452524648922" target="_blank"><img src="https://img.shields.io/badge/Lattes-blue?style=flat-square&logo=appveyor&logoColor=orange" target="_blank" style="padding:500"></a>                                  
-  <a href="https://www.linkedin.com/in/jfscrd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=orange" target="_blank"></a>
-  <a href="mailto:jeffersondias12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=orange" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5534998643085" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-blue?style=flat-square&logo=whatsapp&logoColor=orange" target="_blank"></a>
-  <img src="https://img.shields.io/badge/jfscrd%239110-blue?style=flat-square&logo=discord&logoColor=orange">
+  <a href="http://lattes.cnpq.br/1235452524648922" target="_blank"><img src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge&logo=appveyor&logoColor=orange" target="_blank" style="padding:500"></a>                                  
+  <a href="https://www.linkedin.com/in/jfscrd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=orange" target="_blank"></a>
+  <a href="mailto:jeffersondias12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5534998643085" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=orange" target="_blank"></a>
+  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/jfscrd%239110-blue?style=for-the-badge&logo=discord&logoColor=orange">
 <div>
 
 ---------------
