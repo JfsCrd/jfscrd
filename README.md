@@ -1,6 +1,5 @@
 ### Oi, eu sou o Jefferson e curso Sistemas de Informação na UFU! 😆
 
-
 #### Um pouco da minha trajetória acadêmica 🎓
 Desde o início da graduação tenho participado voluntariamente de vários projetos de extensão e ensino, dentre eles: o Jovens Programadores [(site do JP)](http://www.jovensprogramadores.com/), sendo monitor no ensino de programação e robótica para crianças usando Arduíno; também fui monitor na disciplina de Banco de Dados 2, utilizando PostgreSQL como principal SGBD; no TechKids [(site do TechKids)](https://techkids.facom.ufu.br/) auxiliei no ensino de programação para crianças através do Scratch; na Empresa Júnior de Agronomia UFU - Monte Carmelo (ConCampo) atuei como membro colaborador no setor de marketing, criando conteúdo midiático para redes sociais.
 
@@ -58,3 +57,5 @@ Ah, e tenho muito interesse computação social, segurança da informação, an�
 
 ---------------
 ![Snake animation](https://github.com/JfsCrd/JfsCrd/blob/output/github-contribution-grid-snake.svg)
+  
+![Visualizações](https://komarev.com/ghpvc/?username=jfscrd&style=flat-square&color=yellow&label=Visitas)
