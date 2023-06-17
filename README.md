@@ -3,7 +3,7 @@
 #### Um pouco da minha trajetória acadêmica 🎓
 Desde o início da graduação tenho participado voluntariamente de vários projetos de extensão e ensino, dentre eles: o Jovens Programadores [(site do JP)](http://www.jovensprogramadores.com/), sendo monitor no ensino de programação e robótica para crianças usando Arduíno; também fui monitor na disciplina de Banco de Dados 2, utilizando PostgreSQL como principal SGBD; no TechKids [(site do TechKids)](https://techkids.facom.ufu.br/) auxiliei no ensino de programação para crianças através do Scratch; na Empresa Júnior de Agronomia UFU - Monte Carmelo (ConCampo) atuei como membro colaborador no setor de marketing, criando conteúdo midiático para redes sociais.
 
-Além de participações voluntárias também fui bolsista de extensão por dois anos: no AFIN [(site do AFIN)](http://afinmc.github.io/), onde tive a honra de desenvolver o site do projeto; e, no Programa UFU Saudável, ficando responsável pela geração de relatórios de fluxo de notificações de COVID-19 na comunidade acadêmica, lidando com Excel e PowerBi como principais ferramentas.
+Além de participações voluntárias também fui bolsista de extensão por dois anos: no AFIN [(site do AFIN)](http://afinmc.github.io/), onde tive a honra de desenvolver o site do projeto; e, no Programa UFU Saudável, ficando responsável pela geração de relatórios de fluxo de notificações de COVID-19 na comunidade acadêmica, lidando com Excel e PowerBi como principais ferramentas ([dashboard gerado](https://www.jfscrd.tech/projetos-power-bi/#h.lxtbeke08yvj)).
 
 Também fui membro do DCE, o qual me possibilitou ser conselheiro de graduação no Conselho de Graduação (CONGRAD) da universidade, também sou cofundador do Centro Acadêmico de Sistemas de Informação (CASIU), onde atuei por dois anos como Diretor de Assuntos Acadêmicos. 💼
 
@@ -48,7 +48,7 @@ Ah, e tenho muito interesse computação social, segurança da informação, an�
 
 <div align="center">
   <h3>Mais Sobre Mim 👦</h3>
-  <a href="http://lattes.cnpq.br/1235452524648922" target="_blank"><img src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge&logo=appveyor&logoColor=orange" target="_blank" style="padding:500"></a>                                  
+  <a href="https://www.jfscrd.tech/" target="_blank"><img src="https://img.shields.io/badge/Curriculo-blue?style=for-the-badge&logo=appveyor&logoColor=orange" target="_blank" style="padding:500"></a>                                  
   <a href="https://www.linkedin.com/in/jfscrd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=orange" target="_blank"></a>
   <a href="mailto:jeffersondias12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5534998643085" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=orange" target="_blank"></a>
